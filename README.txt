@@ -1,0 +1,1 @@
+Alright So like at the moment I added this .Vi file into GitHub and committed the changes Now I added this README.txt file so I can see it be added to a different branch and then merged into the main branch
